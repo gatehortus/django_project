@@ -26,7 +26,7 @@ Antes de ejecutar el proyecto debes tener instalado:
 
 ## Cómo ejecutar el proyecto
 
-### 1. Clonar el repositorio
+### Instrucciones
 
 ```bash
 git clone https://github.com/gatehortus/django_project.git
